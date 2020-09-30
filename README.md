@@ -1,4 +1,4 @@
-# Hello developers  :clap:
+# Namastey Developers  :folded hands:
 
 Code on phishing-site detection using Machine-Learning.
 
