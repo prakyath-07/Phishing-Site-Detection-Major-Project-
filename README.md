@@ -1,25 +1,25 @@
-# Hello developers  :clap:
+# Hello Developers  :clap:
 
-Code on phishing-site detection using Machine-Learning.
+Code to dectect a phishing-site using Machine-Learning.
 
-##### Functionality of  Code {<>}
-This code takes following as a input.
+##### Functionality of Code {<>}
+This code takes following as an input:
 
 - URL from the address bar.
 - Screen-shot of the current page.
 
-Using these as inputs for the code the network test the data if the given URL is Legitimate or not.
+Using these as inputs, the network test the data and checks if the given URL is legitimate or not.
 
 
 ##### About Code {<>}
-This code is written with following language.
+This code is written in following languages:
 
 - UI designs are done using HTML,CSS and JS with the combination of Django framework.
-- Training and testing of data are done using Python.
+- Training and testing of data is done using Python.
 
 
 ##### File Details {<>}
-Following are the details about the file inside phishApp/PhishingSiteDetection
+Following are the details about the file inside phishApp/PhishingSiteDetection:
 
 |    File Name   | Description                                                                                            |
 |:--------------:|--------------------------------------------------------------------------------------------------------|
@@ -30,15 +30,9 @@ Following are the details about the file inside phishApp/PhishingSiteDetection
 | load_models.py | Used to test the sample model                                                                          |
 
 
-#### Note {<>}
-
-Explore other files in  *phishingUrlDetectionUsingML* 
-
-
-
 #### Run code {<>}
 
-Run 
+Simply run the following code in terminal:
 ```
 python3 manage.py runserver
 ```
@@ -46,13 +40,3 @@ python3 manage.py runserver
 ##### Note {<>}
 
 Explore other files in  *phishingUrlDetectionUsingML* 
-
-
-
-
-
-
-
-
-
-
